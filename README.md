@@ -5,6 +5,7 @@ Compile with: gcc -g -Wall multithread_primes.c -o multithread_primes -lm -pthre
 
 This simple program generates an array of prime numbers.
 Run the program with: ./multithreaded_primes [n]
+
 This will calculate the prime numbers between 2 and n.
 
 Right now this is very inefficient. It simply runs through
