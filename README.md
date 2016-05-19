@@ -4,7 +4,7 @@ A multithreaded prime number generator.
 Compile with: gcc -g -Wall multithread_primes.c -o multithread_primes -lm -pthread
 
 This simple program generates an array of prime numbers.
-Run the program with: ./multithreaded_primes [n]
+Run the program with: ./multithread_primes [n]
 
 This will calculate the prime numbers between 2 and n.
 
